@@ -1,0 +1,18 @@
+{
+  "initial": {
+    "subject": "Welcome to Our Service",
+    "body": "Hello {name},\n\nThank you for connecting with us.\nWe’re excited to work with you.\n\nBest regards,\nYour Company"
+  },
+  "auto_replies": [
+    "Hi {name}, thanks for your reply! I wanted to share more details about our services.",
+    "Hello {name}, here’s a quick update based on our last conversation.",
+    "Hi {name}, just checking if you had time to go through the proposal.",
+    "Hello {name}, please let me know if you need more information."
+  ],
+  "follow_ups": [
+    "Hey {name}, I wanted to follow up on my earlier email.",
+    "Hi {name}, I’m reaching out again in case my last email didn’t come through.",
+    "Hello {name}, I’d still love to connect with you.",
+    "Hi {name}, this will be my final follow-up — thanks for your time."
+  ]
+}
